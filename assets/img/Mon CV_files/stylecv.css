@@ -1,0 +1,76 @@
+.container{
+    display: flex;
+    flex-direction: vertical;
+    justify-content: space-between;
+    background-color: silver;
+    margin-top: 30px;
+    background-color:rgb(122, 115, 115);
+    
+}
+body{
+    background-color:white;
+    font-size: 1.3em;
+}
+
+.maphoto{
+    border-radius: 50%;
+
+width: 200px
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(245, 228, 77);
+    flex-basis: 25%;
+    flex-grow: inherit;
+    
+}
+h1{
+   
+    text-align: center;
+    color: rgb(17, 17, 17);
+    background-color:rgb(219, 222, 230);
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px; 
+
+    }
+    
+
+   .para{
+       color:rgb(15, 15, 15);
+       text-align: center;
+       font-size: 23px;
+       background-color: rgb(245, 228, 77);
+   } 
+    
+ 
+
+    section > h2{
+        color: rgb(10, 10, 10);
+        
+            
+        }
+
+
+    
+    button{
+        margin-top: 50px;
+        color: rgb(90, 160, 252);
+        background-color: black;
+        font-size: 25px; 
+    }
+    b{
+        color: rgb(20, 20, 19);
+       
+}
+p{
+    color: rgb(14, 13, 13);
+}
+
+
+    
+   
